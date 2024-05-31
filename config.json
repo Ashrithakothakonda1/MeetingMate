@@ -1,0 +1,3 @@
+{
+    "email_template": "Dear {name},\n\nThis is a reminder for your upcoming meeting: {event_summary} scheduled at {event_time}.\n\nBest Regards,\nH7 Program Manager"
+}
